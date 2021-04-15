@@ -1,0 +1,19 @@
+{
+  "name": "nexter-front-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheussss1/Nexter-Front-End.git"
+  },
+  "author": "Matheus Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheussss1/Nexter-Front-End/issues"
+  },
+  "homepage": "https://github.com/matheussss1/Nexter-Front-End#readme"
+}
