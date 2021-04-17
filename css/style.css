@@ -145,14 +145,14 @@ body {
   width: 100%;
   grid-column: 2/6;
   grid-row: 2/6;
-  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.8);
 }
 .story__img--2 {
   width: 115%;
   grid-column: 4/-1;
   grid-row: 4/6;
   z-index: 20;
-  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.7);
 }
 .story__content {
   background-color: #f9f7f6;
