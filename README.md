@@ -1,7 +1,7 @@
 # Nexter
 
 ## Project overview
-![Alt Text](https://github.com/matheussss1/Nexter-Front-End/blob/master/assets/img/gif/gifReadme.gif)
+![Alt Text](https://github.com/matheussss1/Nexter-Front-End/blob/master/img/gif/gifReadme.gif)
 
 ## Esse projeto Front-end faz parte do curso de SASS na udemy.
 ### *Obs: O desing do projeto foi desenhado pelo [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/), a intenção foi de descobrir e masterizar técnicas avançadas de CSS.
